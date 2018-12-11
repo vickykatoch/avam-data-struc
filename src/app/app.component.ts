@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Tree } from '$ds';
 
 @Component({
   selector: 'app-root',
